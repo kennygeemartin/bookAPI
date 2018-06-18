@@ -1,10 +1,11 @@
 Book API
 
-This is my first API using ExpressNodeJs built during my internship program at genesystechhub
+This is my first API built using Express Node.js
 
 Details
 
 This is the basic structure of an API that allows you to perform the basic functions of a library.
+It was built during my internship program at genesystechhub.
 
 Brief
 
