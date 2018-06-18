@@ -1,8 +1,8 @@
-Book API
+Book API for the Use of the Library: 
 
 This is my first API built using Express Node.js
 
-Details
+Description:
 
 This is the basic structure of an API that allows you to perform the basic functions of a library.
 It was built during my internship program at genesystechhub.
